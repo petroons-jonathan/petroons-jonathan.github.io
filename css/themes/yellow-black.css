@@ -1,12 +1,12 @@
 /* Theme */
 
 main {
-	background: #FFEB3B;
-	color: #1E1E1E;
+	background: rgb(5, 190, 5);
+	color: rgb(201, 13, 13);
 }
 
 .icons-social a {
-	color: #1E1E1E;
+	color: yellow;
 }
 
 .icons-social a svg path{
